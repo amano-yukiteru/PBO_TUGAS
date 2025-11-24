@@ -112,9 +112,9 @@
             // pictureBox2
             // 
             pictureBox2.BackColor = SystemColors.Control;
+            pictureBox2.BackgroundImage = (Image)resources.GetObject("pictureBox2.BackgroundImage");
             pictureBox2.BackgroundImageLayout = ImageLayout.Center;
             pictureBox2.BorderStyle = BorderStyle.FixedSingle;
-            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
             pictureBox2.InitialImage = null;
             pictureBox2.Location = new Point(538, 339);
             pictureBox2.Name = "pictureBox2";
