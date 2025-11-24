@@ -526,6 +526,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.GradientActiveCaption;
+            BackgroundImageLayout = ImageLayout.Center;
             CausesValidation = false;
             ClientSize = new Size(1356, 749);
             Controls.Add(label13);
@@ -570,6 +571,7 @@
             Controls.Add(nama);
             Controls.Add(dataGridView1);
             ForeColor = Color.Navy;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Form1";
             Text = "PRIMA ACADEMY";

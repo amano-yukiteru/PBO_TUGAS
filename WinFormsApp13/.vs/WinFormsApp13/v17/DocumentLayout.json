@@ -25,20 +25,6 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp13\\Form1.cs",
-              "ToolTip": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.cs",
-              "RelativeToolTip": "WinFormsApp13\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T08:55:06.522Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
@@ -68,6 +54,20 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp13\\Form1.cs",
+              "ToolTip": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp13\\Form1.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAawCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:55:06.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.cs",
@@ -86,7 +86,7 @@
               "RelativeDocumentMoniker": "WinFormsApp13\\Form1.Designer.cs",
               "ToolTip": "H:\\PBO_TUGAS\\WinFormsApp13\\WinFormsApp13\\Form1.Designer.cs",
               "RelativeToolTip": "WinFormsApp13\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T13:54:19.003Z",
               "EditorCaption": ""
